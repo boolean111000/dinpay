@@ -1,15 +1,13 @@
 
 
-#  
-#  
-#  
-# 
-# 
-<h1 style="text-align:center;"><div width="200"></div>WEB开发简明指南</h1>
+　　　
+
+<h1>　　　　　　　　　　WEB开发简明指南 </h1>
+<h6>　　　　　　　　　　　　　　　　　　　　　　　　author　　boole </h6>
 
 ---
 
 
 
-![](http://i.imgur.com/pgHFDa0.jpg)
+<div>　　　　</div>　　　　　　　![](http://i.imgur.com/pgHFDa0.jpg)
 
