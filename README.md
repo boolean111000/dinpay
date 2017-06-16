@@ -1,8 +1,20 @@
 # welcome to boole's gitbook
-##
 
-	this is php code
-	$name = 'lienken';
-	print_r($name);
+# this is very happy's day
 
-##end
+# I leaning many many ting 
+
+```
+this is php code
+$name = 'lienken';
+print_r($name);
+```
+
+
+
+    nihao
+    wohao lk
+    nihaoj 
+
+
+
