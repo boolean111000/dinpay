@@ -113,7 +113,7 @@
 
 纯真ip数据库对接,这个覆盖面比较大,可存储在本地上.他使用一个QQWry.DAT文件就可以搞定,一次查询时间快,只需要4ms,我们首先[下载纯真ip客户端](http://cz88.net)
 安装软件之后,我们进入到安装目录,会看到一个qqwry.dat,这个就是我们的主角了,当然有的人也会使用软件的解压成txt来进行解析,存放到指定的目录,
-[本地下载170119最新版](./download/qqwry.dat)
+[本地下载170119最新版](download/qqwry.dat)
 下面是php版的一个demo,测试有效,后面的数据可以根据自己的需要进行变动
 * 首先到http://www.cz88.net/down/ 下载之后安装软件,在桌面右键打开所在目录,复制qqwry.dat到服务器的/var/www/mtcp/cpweb/
 * 建立一个类文件/var/www/mtcp/cpweb/iplocation.class.php,内容如下
