@@ -1,4 +1,4 @@
-## IP所在地小功能实现
+## IP定位API接入指南
 
 > # 案例一
 
@@ -302,7 +302,15 @@ Array
     #print_r($addr)返回上面的数组格式;
     echo '您好，您当前的IP所在地是:'.$addr['country'].$addr['area'];
     
-    
+> ###### 最终结果
+    Array
+    (
+    [beginip] => 117.136.67.0
+    [endip] => 117.136.67.255
+    [country] => 江苏省常州市
+    [area] => 移动GSM/TD-SCDMA/LTE全省共用出口
+    )
+    您好，您当前的IP所在地是:江苏省常州市移动GSM/TD-SCDMA/LTE全省共用出口
     
 
 
