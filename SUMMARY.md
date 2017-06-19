@@ -15,7 +15,7 @@
   * [注册登录token类实现及应用](charter3/section1.5.md)
   * [异常处理类实现及应用](charter3/section1.6.md)
 * [BOOLE框架开发详解](charter4/README.md)
-  *[BOOLE框架系统架构](charter4/section1.1.md)
+  * [BOOLE框架系统架构](charter4/section1.1.md)
 * [CI框架开发详解](charter5/README.md)
 * [php常用功能模块](chapter6/README.md)
  * [IP黑名单/白名单](chapter6/section1.1.md)
