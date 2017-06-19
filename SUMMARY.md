@@ -19,6 +19,7 @@
 * [CI框架开发详解](charter5/README.md)
 * [php常用功能模块](chapter6/README.md)
  * [IP黑名单/白名单](chapter6/section1.1.md)
+ * [IP所在地](chapter6/section1.2.md)
  
 
 
